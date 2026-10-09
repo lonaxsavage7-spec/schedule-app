@@ -1,0 +1,6 @@
+{
+  "name": "My Schedule",
+  "description": "Comprehensive native calendar & schedule planner with monthly view, category tags, statistics, and task management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
